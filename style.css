@@ -258,7 +258,6 @@ a {
 .orange-button {
     padding-top: 36px;
     display: flex;
-
 }
 
 .orange-button,
@@ -319,12 +318,19 @@ a {
 }
 
 .name {
-    border: 1px solid #ffa500;
-
+    border: 1px solid orange;
+    border-radius: 12px;
+    padding: 22px 0px 22px 23px;
+    margin: 0px 15px 0px 0px;
+    width: 263px;
 }
 
 .email {
     border: 1px solid orange;
+    border-radius: 12px;
+    padding: 22px 0px 22px 23px;
+    margin: 0px 22px 0px 0px;
+    width: 363px;
 }
 
 form .submit-icon {
